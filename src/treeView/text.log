@@ -1,0 +1,6 @@
+This text is here in order to be like a README
+If you found this file then probably you didn't write directory or if you did then you did it wrong.
+Directory should be specified as "C:\\dir\\anotherDir" - note that dirs are separated with two backslashes \\
+Types of files should be specified as:
+    ".*.txt" - if you want to find all txt files (note that in Java regex for any quantity of any symbols is not just * but .*)
+There is no any restrictions for strings to find
